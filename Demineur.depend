@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1601454823 source:c:\users\boss_\documents\code projects\demineur\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"fonctions.h"
+
+1601458004 c:\users\boss_\documents\code projects\demineur\fonctions.h
+	"structures.h"
+
+1601458905 source:c:\users\boss_\documents\code projects\demineur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fonctions.h"
+
+1600852262 c:\users\boss_\documents\code projects\demineur\structures.h
+
